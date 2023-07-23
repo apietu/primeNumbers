@@ -1,4 +1,4 @@
-Hello I am very excited to share to you my first python project which is a wonderfull guessing game. I hope you enjoy playin this game.
+Hello I am very excited to share to you this project. This program allows you to enter a range of numbers and then print out the prime numbers in the range of numbers.
 
 
 # Getting Started.
@@ -11,6 +11,3 @@ Knowledge on logical operations.
 # Requirements.
 Python IDE.
 
-# Usage.
-Guess a number.
-Wait for result.
